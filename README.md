@@ -3,12 +3,6 @@
 <img height="200em" alt="Me" src="https://cdn.discordapp.com/attachments/819376822700605494/872317384470454332/me.gif">
 
 I'm a Computer Science Student at Universidade de São Paulo (USP)
-
-<div>
-  <a href="https://github.com/Matezcp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matezcp&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matezcp&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
   
   ##
 <div> 
