@@ -5,6 +5,8 @@
 I'm a Software Enginner at Inoa :)  
 I have a degree in Computer Science at Universidade de São Paulo (USP)
 
+Checkout my Linkedin for more infos
+
 <div style="display: inline_block"><br>
   <img align="center" alt="C++_badge" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="python_badge" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
