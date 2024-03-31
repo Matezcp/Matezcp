@@ -2,7 +2,8 @@
 
 <img height="200em" alt="Me" src="https://cdn.discordapp.com/attachments/819376822700605494/872317384470454332/me.gif">
 
-I'm a Computer Science Student at Universidade de São Paulo (USP)
+I'm a Software Enginner at Inoa :)
+I have a degree in Computer Science at Universidade de São Paulo (USP)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++_badge" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
