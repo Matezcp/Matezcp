@@ -2,7 +2,7 @@
 
 <img height="200em" alt="Me" src="https://cdn.discordapp.com/attachments/819376822700605494/872317384470454332/me.gif">
 
-I'm a Software Enginner at Inoa :)
+I'm a Software Enginner at Inoa :)  
 I have a degree in Computer Science at Universidade de São Paulo (USP)
 
 <div style="display: inline_block"><br>
